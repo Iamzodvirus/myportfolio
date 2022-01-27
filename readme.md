@@ -1,4 +1,4 @@
-# My portfolio site
+# MY PORTFOLIO WEBSITE
 ---
 ## Description
 THis site shows my complete portfolio based on job application built with bootstrap mainly, it was quite exciting to create something this nice after numerous inspirations i got from dribbble.
