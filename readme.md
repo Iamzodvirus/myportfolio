@@ -1,15 +1,20 @@
-# MY PORTFOLIO WEBSITE
+## MY PORTFOLIO WEBSITE
 ---
-## Description
-This site shows my complete portfolio based on job application built with bootstrap mainly, it was quite exciting to create something this nice after numerous inspirations i got from dribbble.
+# Overview
+This shows my complete portfolio based on job application built with bootstrap mainly and some other frameworks,
 ---
-## Pages
-The website consits of just one page, it is mobile responsive and user friendly to navigate.
+# Tech/tools Used
+1. HTML
+2. CSS
+3. Bootstrap
+4. Glightbox
+5. isotope-layout
+6. swiper
+7. typed.js
+8. bootstrap-icons
+9. Boxicons...
 ---
-## Future features
-Figma design image and link to be added in this section
----
-
-Thanks for reading!!!
-
-- Gideon Zod Peters
+# Credits
+- @ProfGreatWonder
+- @Iamzodvirus
+- @AdamsOs
