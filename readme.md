@@ -19,11 +19,9 @@
 9. Boxicons...
 ---
 # Links
-> [The-Ultimate-Markdown-Cheat-Sheet (https://iamzodvirus.github.io/myportfolio)
-
-
-
->>>>>>> # Credits
->>>>>>>>>> @ProfGreatWonder
->>>>>>>>>>>>> @Iamzodvirus
->>>>>>>>>>>>>>> @AdamsOs
+> [github link (https://iamzodvirus.github.io/myportfolio)
+---
+# Credits
+        @ProfGreatWonder
+        @Iamzodvirus
+        @AdamsOs
