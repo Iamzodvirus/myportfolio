@@ -20,7 +20,7 @@
 ---
 # Links
 >[github page link (https://iamzodvirus.github.io/myportfolio)
- [Figma design link (https://www.figma.com/proto/KQrJNeLISccLeWVfjGGE9D/Myportfolio-design-gideonzodpeters?node-id=154%3A16&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=154%3A16)
+>[Figma design link (https://www.figma.com/proto/KQrJNeLISccLeWVfjGGE9D/Myportfolio-design-gideonzodpeters?node-id=154%3A16&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=154%3A16)
 ---
 # Credits
         @ProfGreatWonder
